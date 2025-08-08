@@ -13,3 +13,4 @@ class Cat(Animal):
 
 cat = Cat("Oyen", "darat", "ikan")
 print(cat)
+
